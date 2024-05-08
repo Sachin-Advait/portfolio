@@ -8,12 +8,12 @@ Welcome to my vibrant and awesome app portfolio! Below, I've included a showcase
 [![Download on App Store](https://img.shields.io/badge/Download_on_App_Store-IGL_Connect-blue?logo=app-store&logoColor=white&style=for-the-badge)](https://apps.apple.com/in/app/igl-connect/id1147477099)
 
 ### Athlete's Journey
-[![Download on Google Play](https://img.shields.io/badge/Download_on_Google_Athlete's_Journey-green?logo=google-play&logoColor=white&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.athletesjourney.athletes_journey&hl=en&gl=US)
-[![Download on App Store](https://img.shields.io/badge/Download_on_App_Athlete's_Journey-blue?logo=app-store&logoColor=white&style=for-the-badge)](https://apps.apple.com/in/app/athletes-journey/id6448454026)
+[![Download on Google Play](https://img.shields.io/badge/Download_on_Google_Play-Athlete's_Journey-green?logo=google-play&logoColor=white&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.athletesjourney.athletes_journey&hl=en&gl=US)
+[![Download on App Store](https://img.shields.io/badge/Download_on_App_Store-Athlete's_Journey-blue?logo=app-store&logoColor=white&style=for-the-badge)](https://apps.apple.com/in/app/athletes-journey/id6448454026)
 
 ### Rent A Cooler
 [![Download on Google Play](https://img.shields.io/badge/Download_on_Google_Play-Rent_A_Cooler-green?logo=google-play&logoColor=white&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.rentacooler.rentacooler&hl=en_US)
-[![Download on App Store](https://img.shields.io/badge/Download_on_App_Rent_A_Cooler-blue?logo=app-store&logoColor=white&style=for-the-badge)](https://apps.apple.com/vn/app/rent-a-cooler/id6449244684)
+[![Download on App Store](https://img.shields.io/badge/Download_on_App_Store-Rent_A_Cooler-blue?logo=app-store&logoColor=white&style=for-the-badge)](https://apps.apple.com/vn/app/rent-a-cooler/id6449244684)
 
 ### Gas Trend
 [![Download on Google Play](https://img.shields.io/badge/Download_on_Google_Play-Gas_Trend-green?logo=google-play&logoColor=white&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.prinfotech.gas_trend)
